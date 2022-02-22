@@ -9,8 +9,7 @@
     ],
     "extensions": [
         "cloudmediaconversion",
-        "mediaconversionbackoffice",
-        "azurecloudhotfolder"   
+        "mediaconversionbackoffice"
     ],
     "useConfig": {
         "properties": [
