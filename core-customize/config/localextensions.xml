@@ -16,7 +16,7 @@
         <extension name='b2bacceleratorservices' />
         <extension name='commerceorgaddon' />
         <extension name='commerceorgsamplesaddon' />
-        <extension name='powertoolsstore' />
+        <!-- <extension name='powertoolsstore' /> -->
         <extension name='b2bapprovalprocess' />
         <extension name='b2bapprovalprocessfacades' />
         <extension name='b2bcommerce' />
