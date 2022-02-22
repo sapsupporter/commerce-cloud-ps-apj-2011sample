@@ -53,7 +53,28 @@
         {
             "key": "trainingb2bstorefront.webroot",
             "value": "/trainingb2bstorefront"
+        },
+        {
+            "key": "media.powertools.http",
+            "value": "http://accstorefront.cp96avkh5f-customers1-d9-public.model-t.cc.commerce.ondemand.com/trainingb2bstorefront",
+            "persona": "development"
+        },
+        {
+            "key": "media.powertools.https",
+            "value": "https://accstorefront.cp96avkh5f-customers1-d9-public.model-t.cc.commerce.ondemand.com/trainingb2bstorefront",
+            "persona": "development"
+        },
+        {
+            "key": "website.powertools.http",
+            "value": "http://accstorefront.cp96avkh5f-customers1-d9-public.model-t.cc.commerce.ondemand.com/trainingb2bstorefront",
+            "persona": "development"
+        },
+        {
+            "key": "website.powertools.https",
+            "value": "https://accstorefront.cp96avkh5f-customers1-d9-public.model-t.cc.commerce.ondemand.com/trainingb2bstorefront",
+            "persona": "development"
         }
+
     ],
     "storefrontAddons": [
         
