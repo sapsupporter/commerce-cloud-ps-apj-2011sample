@@ -2,7 +2,7 @@
     <extensions>
         <path dir='${HYBRIS_BIN_DIR}' autoload='false' />
     <extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingb2bstorefront" name='trainingb2bstorefront' />
-    <extension name='ycommercewebservices' />
+   
         <extension name='adaptivesearchbackoffice' />
         <extension name='adaptivesearchsamplesaddon' />
         <extension name='adaptivesearchsolr' />
@@ -16,7 +16,7 @@
         <extension name='b2bacceleratorservices' />
         <extension name='commerceorgaddon' />
         <extension name='commerceorgsamplesaddon' />
-        <!-- <extension name='powertoolsstore' /> -->
+        <extension name='powertoolsstore' /> 
         <extension name='b2bapprovalprocess' />
         <extension name='b2bapprovalprocessfacades' />
         <extension name='b2bcommerce' />
@@ -30,7 +30,11 @@
         <extension name='backofficesolrsearch' />
         <extension name='platformbackoffice' />
         <extension name='ybackoffice' />
-
+<extension name='yacceleratorbackoffice' />
+        <extension name='yacceleratorcore' />
+        <extension name='yacceleratorfacades' />
+        <extension name='yacceleratorinitialdata' />
+        <extension name='yacceleratorstorefront' />
 	<extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingbackoffice" name='trainingbackoffice' />
 <extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingcore" name='trainingcore' />
 <extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingfacades" name='trainingfacades' />
@@ -97,7 +101,7 @@
         <extension name='warehousing' />
         <extension name='warehousingbackoffice' />
         <extension name='warehousingwebservices' />
-        
+        <extension name='yacceleratorordermanagement' />
         <extension name='personalizationaddon'/>
         <extension name='personalizationcms' />
         <extension name='personalizationcmsbackoffice' />
@@ -166,6 +170,7 @@
         <extension name='cmsoccaddon'/>
         <extension name='ycommercewebservices'/>
         <extension name='ycommercewebservicestest'/>
+<extension name='yacceleratorcockpits'/>
 
         <!--scpi extensions-->
         <extension name='sapcoreaddon' />
