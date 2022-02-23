@@ -1,7 +1,7 @@
 <hybrisconfig xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='../bin/platform/resources/schemas/extensions.xsd'>
     <extensions>
         <path dir='${HYBRIS_BIN_DIR}' autoload='false' />
-    <extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingb2bstorefront" name='trainingb2bstorefront' />
+        <extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingb2bstorefront" name='trainingb2bstorefront' />
    
         <extension name='adaptivesearchbackoffice' />
         <extension name='adaptivesearchsamplesaddon' />
@@ -16,7 +16,7 @@
         <extension name='b2bacceleratorservices' />
         <extension name='commerceorgaddon' />
         <extension name='commerceorgsamplesaddon' />
-        <extension name='powertoolsstore' /> 
+        <extension name='powertoolsstore' />
         <extension name='b2bapprovalprocess' />
         <extension name='b2bapprovalprocessfacades' />
         <extension name='b2bcommerce' />
@@ -30,18 +30,18 @@
         <extension name='backofficesolrsearch' />
         <extension name='platformbackoffice' />
         <extension name='ybackoffice' />
-<extension name='yacceleratorbackoffice' />
+        <extension name='yacceleratorbackoffice' />
         <extension name='yacceleratorcore' />
         <extension name='yacceleratorfacades' />
         <extension name='yacceleratorinitialdata' />
         <extension name='yacceleratorstorefront' />
 	<extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingbackoffice" name='trainingbackoffice' />
-<extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingcore" name='trainingcore' />
-<extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingfacades" name='trainingfacades' />
-<extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingfulfilmentprocess" name='trainingfulfilmentprocess' />
-<extension dir="${HYBRIS_BIN_DIR}/custom/training/traininginitialdata" name='traininginitialdata' />
-<extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingstorefront" name='trainingstorefront' />
-<extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingtest" name='trainingtest' />
+        <extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingcore" name='trainingcore' />
+        <extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingfacades" name='trainingfacades' />
+        <extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingfulfilmentprocess" name='trainingfulfilmentprocess' />
+        <extension dir="${HYBRIS_BIN_DIR}/custom/training/traininginitialdata" name='traininginitialdata' />
+        <extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingstorefront" name='trainingstorefront' />
+        <extension dir="${HYBRIS_BIN_DIR}/custom/training/trainingtest" name='trainingtest' />
         
         <extension name='basecommerce' />
         <extension name='basecommercebackoffice' />
